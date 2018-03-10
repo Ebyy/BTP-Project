@@ -1,11 +1,9 @@
 // Final Project Milestone 1
 //
-// File: Date.h
 // Version 1.0
-// Author's name: 
-// Author's student ID:
-// Date of completion: 
-// Description: 
+// Date
+// Author
+// Description
 //
 //
 //
@@ -14,15 +12,23 @@
 // -----------------------------------------------------------
 // Name               Date                 Reason
 /////////////////////////////////////////////////////////////////
-
 #ifndef AMA_DATE_H
 #define AMA_DATE_H
 
 namespace AMA {
-    class Date
-    {
-        int mdays(int, int) const;
-      public:
-    };
+
+  class Date {
+
+
+     int mdays(int, int)const;
+ 
+  public:
+ 
+  };
+
+
+
+
+
 }
-#endif // AMA_DATE_H
+#endif
