@@ -2,11 +2,10 @@
 
 **IMPORTANT DATES:**
 
-| Milestone                | Deadline                |
-| -----------------------  |------------------------ |
-| *The Date class*   			| **Due: Jul 8th,   5 days** |
-| *The ErrorMessage class*		| **Due: Jul 11th, 3 days**  |
-| *The Streamable class*    	| **Due: Jul 12th, 1 day**   |
-| *The Product class*   		| **Due: Jul 18th, 6 days**  | 
-| *The AMA product classes*		| **Due: Jul 27th, 9 days**  |
-| *The AidApp class*    		| **Due: Aug 6th, 9 days**   |
+| Milestone                  | Deadline             |
+| -------------------------- |--------------------- |
+| *The `Date` class*         | **Due: March 16th**  |
+| *The `ErrorMessage` class* | **Due: March 23rd**  |
+| *The `Product` class*    	 | **Due: April 11th**  |
+| *The `iProduct` interface* | **Due: April 12th**  | 
+| *The `Perishable` class*   | **Due: April 14th**  |
